@@ -1,0 +1,33 @@
+[
+  {
+    "id": "E1F4B580-B50A-4A37-B1FC-F21726A93B8E",
+    "type": "Recent Login",
+    "name": "MacBook Pro",
+    "status": "Safe",
+    "location": "San Francisco, CA",
+    "timestamp": "2025-03-23T15:00:00Z",
+    "notes": "Trusted network detected."
+  },
+  {
+    "id": "C8C49B03-239D-420A-AB4E-8B13D3CCAF49",
+    "type": "Recent Login",
+    "name": "Windows PC",
+    "status": "Unusual",
+    "location": "Austin, TX",
+    "timestamp": "2025-03-21T10:20:00Z",
+    "notes": "Login from new device."
+  },
+  {
+    "id": "F51F5B39-B981-4C28-8657-22A3BB881909",
+    "type": "Active Session",
+    "name": "iPhone",
+    "status": "Active",
+    "location": "San Francisco, CA"
+  },
+  {
+    "id": "CD574CB8-2A5A-4623-AD7E-9C2F3B3D1692",
+    "type": "Active Session",
+    "name": "MacBook",
+    "status": "Active"
+  }
+]
